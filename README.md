@@ -7,8 +7,8 @@ Feel free to mention this repository in your work and give a star to the project
 
 
 ### How to run it locally
-Fork this repository and use the link  to clone in your laptop/pc: ``` https://github.com/<your_GitHubusernaame>/Quantum-CNN.git ```
-Once it's forked, just go to the folders and run the ipynb files.
+Fork this repository and use the link  to clone in your laptop/pc: ``` https://github.com/<your_GitHub_Username>/Quantum-CNN.git ```
+Once it's forked, just go to the folders and run the .ipynb files.
 
 ### 1. Description:
 
