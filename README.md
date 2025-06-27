@@ -98,7 +98,7 @@ elif dataset == 'mnist':
 ```
 
 ### 7. Conclusion: 
-The accuracy remains near 98% for the image dataset
+The image classification accuracy remains near 98% and 80% for the audio classification.
 
 
 
